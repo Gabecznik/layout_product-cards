@@ -4,7 +4,7 @@ report({
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Card_with_data-qa_card.png",
-        "test": "..\\bitmaps_test\\20250712-002605\\Card_with_data-qa_card.png",
+        "test": "..\\bitmaps_test\\20250713-193656\\Card_with_data-qa_card.png",
         "selector": "[data-qa=\"card\"]",
         "fileName": "Card_with_data-qa_card.png",
         "label": "Card with data-qa_card",
@@ -22,16 +22,16 @@ report({
           },
           "rawMisMatchPercentage": 32.443627450980394,
           "misMatchPercentage": "32.44",
-          "analysisTime": 13
+          "analysisTime": 15
         },
-        "diffImage": "..\\bitmaps_test\\20250712-002605\\failed_diff_Card_with_data-qa_card.png"
+        "diffImage": "..\\bitmaps_test\\20250713-193656\\failed_diff_Card_with_data-qa_card.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Link_with_data-qa_hover.png",
-        "test": "..\\bitmaps_test\\20250712-002605\\Link_with_data-qa_hover.png",
+        "test": "..\\bitmaps_test\\20250713-193656\\Link_with_data-qa_hover.png",
         "selector": "[data-qa=\"card\"]",
         "fileName": "Link_with_data-qa_hover.png",
         "label": "Link with data-qa_hover",
@@ -49,9 +49,9 @@ report({
           },
           "rawMisMatchPercentage": 35.7144516188972,
           "misMatchPercentage": "35.71",
-          "analysisTime": 10
+          "analysisTime": 16
         },
-        "diffImage": "..\\bitmaps_test\\20250712-002605\\failed_diff_Link_with_data-qa_hover.png"
+        "diffImage": "..\\bitmaps_test\\20250713-193656\\failed_diff_Link_with_data-qa_hover.png"
       },
       "status": "fail"
     }
